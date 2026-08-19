@@ -4,7 +4,7 @@
 You described the VA-to-broker handoff in exact detail, so I built a working version of that specific flow before applying: a pipeline that captures leads by source, moves deals through your stages, auto-creates tasks split between broker and VA, and runs the "VA flags missing info -> broker reviews and approves -> request goes to client -> client responds -> VA resumes" mechanic end to end.
 
 ## Demo Reference
-Live app: [LIVE_DEMO_URL_PENDING]
+Live app: https://pipedrive-mortgage-broker-crm-demo.streamlit.app/
 
 What it does:
 - Captures leads tagged by source (Meta, website, referral, phone) and moves them through a 10-stage pipeline modeling your ~15-step process
