@@ -1,0 +1,9 @@
+Live demo: [LIVE_DEMO_URL_PENDING]
+
+I built a working version of your VA-to-broker handoff before applying. Leads get tagged by source, deals move through stages with tasks auto-assigned to broker or VA, and the approval gate runs exactly as you described: VA flags missing info, broker reviews and approves, request goes to the client, client responds, VA is notified and continues. Screenshot attached: [SCREENSHOT_PENDING].
+
+For the real build this becomes a native Pipedrive setup: pipelines, deal-stage automations, custom fields, and your Meta and website lead sources wired in, with Zapier or Make covering anything Pipedrive can't do on its own.
+
+Phase 1: the core pipeline, stage-based task automation, and the approval-gate handoff live for one lead source. $250 fixed, 5-7 days.
+
+Ready to start this week. Does Wednesday work for a 15-minute call to confirm your exact stage names?

@@ -1,0 +1,74 @@
+[
+  {
+    "deal_id": "D-1001",
+    "client_name": "Rachel Nguyen",
+    "lead_source": "Meta",
+    "loan_amount": 620000,
+    "stage": "VA Processing",
+    "days_in_stage": 2,
+    "notes": "First home buyer, pre-approval requested via Facebook lead form."
+  },
+  {
+    "deal_id": "D-1002",
+    "client_name": "Marcus Webb",
+    "lead_source": "Website",
+    "loan_amount": 845000,
+    "stage": "Broker Review",
+    "days_in_stage": 4,
+    "notes": "Refinance. VA flagged missing 2 years of business tax returns."
+  },
+  {
+    "deal_id": "D-1003",
+    "client_name": "Priya Chandrasekar",
+    "lead_source": "Referral",
+    "loan_amount": 510000,
+    "stage": "Client Info Requested",
+    "days_in_stage": 6,
+    "notes": "Referred by Marcus Webb. Client is self-employed, needs updated BAS statements."
+  },
+  {
+    "deal_id": "D-1004",
+    "client_name": "Tom O'Halloran",
+    "lead_source": "Phone",
+    "loan_amount": 395000,
+    "stage": "Client Responded",
+    "days_in_stage": 1,
+    "notes": "Uploaded payslips this morning, ready for VA to resume."
+  },
+  {
+    "deal_id": "D-1005",
+    "client_name": "Aisha Farah",
+    "lead_source": "Meta",
+    "loan_amount": 720000,
+    "stage": "Submitted",
+    "days_in_stage": 3,
+    "notes": "Submitted to lender for assessment. Waiting on valuation."
+  },
+  {
+    "deal_id": "D-1006",
+    "client_name": "Jordan Kelly",
+    "lead_source": "Website",
+    "loan_amount": 460000,
+    "stage": "Qualified",
+    "days_in_stage": 1,
+    "notes": "Booked discovery call, budget and timeline confirmed."
+  },
+  {
+    "deal_id": "D-1007",
+    "client_name": "Wei Chen",
+    "lead_source": "Referral",
+    "loan_amount": 980000,
+    "stage": "New Lead",
+    "days_in_stage": 0,
+    "notes": "Referred by existing client, no contact made yet."
+  },
+  {
+    "deal_id": "D-1008",
+    "client_name": "Grace Papadopoulos",
+    "lead_source": "Meta",
+    "loan_amount": 550000,
+    "stage": "Approved",
+    "days_in_stage": 5,
+    "notes": "Unconditional approval received from lender."
+  }
+]
